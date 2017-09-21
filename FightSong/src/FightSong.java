@@ -9,6 +9,7 @@ public class FightSong {
 		intro(); //plays first paragraph
 		middleSection(); //plays middle two paragraphs
 		combinedIntro(); //plays last paragraph
+		//I pushed this to git
 	}
 	//combines first two lines
 public static void combinedIntro(){
